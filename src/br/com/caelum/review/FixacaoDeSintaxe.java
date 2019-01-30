@@ -44,7 +44,6 @@ public class FixacaoDeSintaxe {
 			System.out.println(" ");
 			System.out.println(" ");
 			
-			
 			//Sequencia de fibonacci;
 			
 			for(int a=0, b=1, i=0; i<15; b+=a, a=b-a, i++) {
